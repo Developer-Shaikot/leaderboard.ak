@@ -76,7 +76,5 @@ main{
     .blog{
         display: block;
     }
-    .courses{
-        display:grid;
-    }
+    
 }
